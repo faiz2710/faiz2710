@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./download (4).jpeg" width="500">
+  <img width="360" height="246" alt="image" src="https://github.com/user-attachments/assets/3eb0e05c-0987-479b-a48d-b848723a6909" />
 </p>
 
 # 💫 About Me:
