@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="360" height="246" alt="image" src="https://github.com/user-attachments/assets/3eb0e05c-0987-479b-a48d-b848723a6909" />
-</p>
-
 # 💫 About Me:
 👋 Hello, I'm Faiz Nabil Akram<br><br>I'm a Software Engineering student from Indonesia with a strong interest in technology and software development. I enjoy exploring new ideas, learning how things work, and building applications that can be useful in everyday life.<br><br>I'm currently developing my skills through various projects and hands-on experience, especially in web and mobile application development. For me, programming is not just about writing code, but also about solving problems, being creative, and continuously improving.<br><br>This GitHub is where I share my projects, learning journey, experiments, and things I've built along the way. 🚀
 
